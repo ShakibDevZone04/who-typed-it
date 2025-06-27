@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Who Typed It - APK Download</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #333;
+    }
+    .logo {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 18px;
+      background-color: #007BFF;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    .btn:hover {
+      background-color: #0056b3;
+    }
+    p {
+      margin-top: 20px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="logo.png" alt="App Logo" class="logo" />
+  <h1>Who Typed It</h1>
+  <p>Predict who wrote the message using AI-powered analysis</p>
+  
+  <a href="app-release.apk" class="btn" download>📥 Download APK</a>
+
+  <p style="margin-top: 40px; font-size: 14px;">
+    Developed by <strong>ShakibDevZone04</strong> • Version 1.0<br>
+    Need help? <a href="https://github.com/ShakibDevZone04/desktop-tutorial/issues/new" target="_blank">Send Feedback</a>
+  </p>
+
+</body>
+</html>
