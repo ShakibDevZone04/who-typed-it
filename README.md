@@ -10,7 +10,7 @@ An AI-powered Android app that predicts who typed a message based on writing sty
 
 ---
 
-### 🔗 Live Demo Website
+### 🔗 Website
 
 🌐 [Visit Website](https://shakibdevzone04.github.io/who-typed-it/)
 
